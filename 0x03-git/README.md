@@ -1,2 +1,1 @@
-My second readme
-My second commit
+My secod commit and readme
